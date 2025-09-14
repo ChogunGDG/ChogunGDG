@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [ChogunGDG](http://https://github.com/Goldragod)
+* 🖥️  See my portfolio at [ChogunNPH](http://https://github.com/Goldragod)
 * 🧠  I'm learning Golang for Backend
 
 ### Skills
